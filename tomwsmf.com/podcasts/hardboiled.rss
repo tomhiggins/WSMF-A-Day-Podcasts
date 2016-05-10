@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+<channel>
+<language>en-us</language>
+<title>Hard Boiled Adventure A Day Podcast</title>
+<image>
+     <url>http://tomwsmf.com/podcasts/HB.jpg</url>
+     <title>The Hard Boiled Podcast</title>
+     <link>http://tomwsmf.com/blog</link>
+</image>
+<link>http://tomwsmf.com/blog</link>
+<description>Tired of the everyday grind? Ever dream of a life of adventure? Want to get away from it all? We offer you… The Hard Boiled Podcast. </description>
+<itunes:summary>Tired of the everyday grind? Ever dream of a life of adventure? Want to get away from it all? We offer you… The Hard Boiled Podcast.  </itunes:summary>
+<itunes:owner>
+<itunes:name>WSMF</itunes:name>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+</itunes:owner>
+<itunes:author>Tomwsmf</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+<itunes:image href='http://tomwsmf.com/podcasts/HB.jpg' />
+<itunes:category text='Detective' />
+<itunes:category text='Society &amp; Culture'>
+<itunes:category text='History' />
+</itunes:category>
+<copyright>Public Domain</copyright>
+<lastBuildDate>Tue, 03 May 2016 00:18:33 -0700</lastBuildDate>
+<item><title>Yours Truly Johnny Dollar 56 05 03 _The_Callicles_Matter_Episode_4</title><guid>http://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/560503_386_The_Callicles_Matter_Episode_4.mp3</guid><enclosure url='http://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/560503_386_The_Callicles_Matter_Episode_4.mp3' length='23666323' type='audio/mpeg' /><pubDate>Tue, 03 May 2016 00:18:33 -0700</pubDate></item>
+<item><title>Escape 53 05 03 Lili_and_the_Colonel</title><guid>http://archive.org/download/OTRR_Escape_Singles/Escape_53-05-03_-181-_Lili_and_the_Colonel.mp3</guid><enclosure url='http://archive.org/download/OTRR_Escape_Singles/Escape_53-05-03_-181-_Lili_and_the_Colonel.mp3' length='23666323' type='audio/mpeg' /><pubDate>Tue, 03 May 2016 00:18:33 -0700</pubDate></item>
+<item><title>Dangerous_Assignment_50 05 03_018_Sabotage_in_Paris.mp3</title><guid>http://archive.org/download/Otrr_Dangerous_Assignment_Singles/Dangerous_Assignment_50-05-03_018_Sabotage_in_Paris.mp3</guid><enclosure url='http://archive.org/download/Otrr_Dangerous_Assignment_Singles/Dangerous_Assignment_50-05-03_018_Sabotage_in_Paris.mp3' length='23666323' type='audio/mpeg' /><pubdate>Tue, 03 May 2016 00:18:33 -0700</pubdate></item>
+</channel>
+</rss>

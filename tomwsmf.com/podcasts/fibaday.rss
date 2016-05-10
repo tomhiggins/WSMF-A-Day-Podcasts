@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+<channel>
+<language>en-us</language>
+<title>Fib-A-Day Podcast</title>
+<image>
+     <url>http://tomwsmf.com/podcasts/fib.jpg</url>
+     <title>Fib-A-Day Podcast</title>
+     <link>http://tomwsmf.com/blog</link>
+</image>
+<link>http://tomwsmf.com/blog</link>
+<description>Broadcasts on this day in history from the life of Fibber McGee and Molly. </description>
+<itunes:summary>Broadcasts on this day in history from the life of Fibber McGee and Molly. </itunes:summary>
+<itunes:owner>
+<itunes:name>WSMF</itunes:name>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+</itunes:owner>
+<itunes:author>Tomwsmf</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+<itunes:image href='http://tomwsmf.com/podcasts/fib.jpg' />
+<itunes:category text='Comedy' />
+<itunes:category text='Society &amp; Culture'>
+<itunes:category text='History' />
+</itunes:category>
+<copyright>Public Domain</copyright>
+<lastBuildDate>Tue, 03 May 2016 00:18:33 -0700</lastBuildDate>
+<item><title>Fibber McGee And Molly 1949 05 03_Do_A_Good_Turn_McGee.mp3</title><guid>https://archive.org/download/FibberMcGeeandMolly1949/490503_Do_A_Good_Turn_McGee.mp3</guid><enclosure url='https://archive.org/download/FibberMcGeeandMolly1949/490503_Do_A_Good_Turn_McGee.mp3' length='23666323' type='audio/mpeg' /><pubdate>Tue, 03 May 2016 00:18:33 -0700</pubdate></item>
+<item><title>Fibber McGee And Molly 1954 05 03_New_Shoes.mp3</title><guid>https://archive.org/download/FibberMcGeeandMolly1954/540503_New_Shoes.mp3</guid><enclosure url='https://archive.org/download/FibberMcGeeandMolly1954/540503_New_Shoes.mp3' length='23666323' type='audio/mpeg' /><pubdate>Tue, 03 May 2016 00:18:33 -0700</pubdate></item>
+</channel>
+</rss>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>podcasts</title>
+    </head>
+    <body>
+<outline title="Listen Subscriptions" text="Listen Subscriptions">
+            <outline text="A History of the World in 100 Objects"
+                title="A History of the World in 100 Objects" type="rss"
+                xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/ahow/rss.xml" htmlUrl="http://www.bbc.co.uk/ahistoryoftheworld"/>
+            <outline text="CBeebies Best Bits"
+                title="CBeebies Best Bits" type="rss"
+                xmlUrl="http://downloads.bbc.co.uk/podcasts/bbc7/cbeebies/rss.xml" htmlUrl="http://www.bbc.co.uk/cbeebies"/>
+            <outline text="Cory Doctorow's craphound.com"
+                title="Cory Doctorow's craphound.com" type="rss"
+                xmlUrl="http://feeds.feedburner.com/doctorow_podcast" htmlUrl="http://craphound.com"/>
+            <outline text="Math for Primates" title="Math for Primates"
+                type="rss" xmlUrl="http://www.mathforprimates.com/feed/" htmlUrl="http://www.mathforprimates.com"/>
+            <outline text="Maths Challenge" title="Maths Challenge"
+                type="rss"
+                xmlUrl="http://downloads.bbc.co.uk/podcasts/radio/mathschall/rss.xml" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fdownloads.bbc.co.uk%2Fpodcasts%2Fradio%2Fmathschall%2Frss.xml"/>
+            <outline text="NOVA scienceNOW" title="NOVA scienceNOW"
+                type="rss"
+                xmlUrl="http://broadband.wgbh.org/nova/rss/novasciencenow.xml" htmlUrl="http://www.pbs.org/wgbh/nova/rss/nsnpodcast/redir/http://www.pbs.org/wgbh/nova/sciencenow/index.html"/>
+            <outline text="On The Media" title="On The Media" type="rss"
+                xmlUrl="http://www.onthemedia.org/index.xml" htmlUrl="http://www.onthemedia.org/?sourceref=rss"/>
+            <outline text="Open Stacks" title="Open Stacks" type="rss"
+                xmlUrl="http://openstacks.net/os/index.xml" htmlUrl="http://openstacks.net/os/"/>
+            <outline
+                text="Over the Edge [KPFA 94.1 FM, Berkeley CA - kpfa.org]"
+                title="Over the Edge [KPFA 94.1 FM, Berkeley CA - kpfa.org]"
+                type="rss"
+                xmlUrl="http://kpfa.org/podcast/pod.php?show_id=1782" htmlUrl="http://www.kpfa.org/archives/index.php?show=1782"/>
+            <outline text="podictionary" title="podictionary" type="rss"
+                xmlUrl="http://podictionary.libsyn.com/rss" htmlUrl="http://www.podictionary.com"/>
+            <outline text="Print and Play" title="Print and Play"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/PrintAndPlay" htmlUrl="http://printandplay.blogspot.com/"/>
+            <outline text="Puzzling Stereo" title="Puzzling Stereo"
+                type="rss" xmlUrl="http://www.hesiod.org/show/show.rss" htmlUrl="http://hesiod.org/show/"/>
+            <outline
+                text="Quirks &amp; Quarks Complete Show from CBC Radio"
+                title="Quirks &amp; Quarks Complete Show from CBC Radio"
+                type="rss"
+                xmlUrl="http://www.cbc.ca/podcasting/includes/quirksaio.xml" htmlUrl="http://www.cbc.ca/quirks/"/>
+            <outline
+                text="Slackerpedia Galactica and Slacker Astronomy video podcast"
+                title="Slackerpedia Galactica and Slacker Astronomy video podcast"
+                type="rss"
+                xmlUrl="http://www.slackerastronomy.org/slack-live.xml" htmlUrl="http://www.slackerastronomy.org/"/>
+            <outline text="Storynory - Stories For Kids"
+                title="Storynory - Stories For Kids" type="rss"
+                xmlUrl="http://feeds.feedburner.com/Storynory" htmlUrl="http://storynory.com"/>
+            <outline text="The Brass Figlagee"
+                title="The Brass Figlagee" type="rss"
+                xmlUrl="http://www.archive.org/download/brassfiglageerss.xml_1/brassfiglageerss.xml" htmlUrl="http://shepcast.blogspot.com/"/>
+            <outline text="The History of Rome"
+                title="The History of Rome" type="rss"
+                xmlUrl="http://feeds.feedburner.com/TheHistoryOfRome" htmlUrl="http://thehistoryofrome.typepad.com/the_history_of_rome/"/>
+            <outline text="The Literate Loser"
+                title="The Literate Loser" type="rss"
+                xmlUrl="http://literateloser.mitchellkdwyer.net/?feed=rss2" htmlUrl="http://literateloser.net"/>
+            <outline text="the memory palace" title="the memory palace"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/TheMemoryPalace" htmlUrl="http://thememorypalace.us"/>
+            <outline text="The Skeptics' Guide to the Universe"
+                title="The Skeptics' Guide to the Universe" type="rss"
+                xmlUrl="http://theskepticsguide.org/feed/rss.aspx?feed=SGU" htmlUrl="http://www.theskepticsguide.org/sgu.aspx?MasterPodcastId=1"/>
+            <outline text="The SubGenius Hour of Slack Podcast"
+                title="The SubGenius Hour of Slack Podcast" type="rss"
+                xmlUrl="http://hourofslack.libsyn.com/rss" htmlUrl="http://hourofslack.libsyn.com"/>
+            <outline text="The Word Nerds" title="The Word Nerds"
+                type="rss" xmlUrl="http://thewordnerds.org/rss" htmlUrl="http://thewordnerds.org"/>
+            <outline text="This American Life"
+                title="This American Life" type="rss"
+                xmlUrl="http://www.thisamericanlife.org/podcast.xml" htmlUrl="http://www.thisamericanlife.org"/>
+            <outline text="WFMU's Old Codger with Courtney T. Edison"
+                title="WFMU's Old Codger with Courtney T. Edison"
+                type="rss" xmlUrl="http://wfmu.org/podcast/OC.xml" htmlUrl="http://wfmu.org/playlists/OC"/>
+            <outline
+                text="WFMU's Too Much Information with Benjamen Walker"
+                title="WFMU's Too Much Information with Benjamen Walker"
+                type="rss" xmlUrl="http://wfmu.org/podcast/TI.xml" htmlUrl="http://wfmu.org/playlists/TI"/>
+            <outline text="Why We Cook - mp3 - Heritage Radio Network"
+                title="Why We Cook - mp3 - Heritage Radio Network"
+                type="rss"
+                xmlUrl="http://www.heritageradionetwork.com/programs/13-Why-We-Cook.xml" htmlUrl="http://www.heritageradionetwork.com/programs/13-Why-We-Cook"/>
+            <outline text="WNYC's Radiolab" title="WNYC's Radiolab"
+                type="rss" xmlUrl="http://feeds.wnyc.org/radiolab" htmlUrl="http://www.radiolab.org/series/podcasts/"/>
+        </outline>
+    </body>
+</opml>

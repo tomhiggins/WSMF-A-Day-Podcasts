@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+<channel>
+<language>en-us</language>
+<title>The Badge Podcast - Tales Of The Law</title>
+<image>
+     <url>http://tomwsmf.com/podcasts/badge.jpg</url>
+     <title>The Badge Podcast - Tales Of The Law</title>
+     <link>http://tomwsmf.com/blog</link>
+</image>
+<link>http://tomwsmf.com/blog</link>
+<description>Broadcasts on this day in history telling the tale of the law and its enforcers. </description>
+<itunes:summary>Broadcasts on this day in history telling the tale of the law and its enforcers. </itunes:summary>
+<itunes:owner>
+<itunes:name>WSMF</itunes:name>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+</itunes:owner>
+<itunes:author>Tomwsmf</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+<itunes:image href='http://tomwsmf.com/podcasts/badge.jpg' />
+<itunes:category text='Crime' />
+<itunes:category text='Society &amp; Culture'>
+<itunes:category text='History' />
+</itunes:category>
+<copyright>Public Domain</copyright>
+<lastBuildDate>Tue, 03 May 2016 00:18:33 -0700</lastBuildDate>
+<item><title>Dragnet 1951 05 03_099_The_Big_Casing</title><guid>http://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-05-03_099_The_Big_Casing.mp3</guid><enclosure url='http://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-05-03_099_The_Big_Casing.mp3' length='23666323' type='audio/mpeg' /><pubdate>Tue, 03 May 2016 00:18:33 -0700</pubdate></item>
+<item><title>Dragnet 1953 05 03_202_The_Big_Carney</title><guid>http://archive.org/download/OTRR_Dragnet_Singles/Dragnet_53-05-03_202_The_Big_Carney.mp3</guid><enclosure url='http://archive.org/download/OTRR_Dragnet_Singles/Dragnet_53-05-03_202_The_Big_Carney.mp3' length='23666323' type='audio/mpeg' /><pubdate>Tue, 03 May 2016 00:18:33 -0700</pubdate></item>
+<item><title>Dragnet 1955 05 03_298_The_Big_Momma</title><guid>http://archive.org/download/OTRR_Dragnet_Singles/Dragnet_55-05-03_298_The_Big_Momma.mp3</guid><enclosure url='http://archive.org/download/OTRR_Dragnet_Singles/Dragnet_55-05-03_298_The_Big_Momma.mp3' length='23666323' type='audio/mpeg' /><pubdate>Tue, 03 May 2016 00:18:33 -0700</pubdate></item>
+</channel>
+</rss>

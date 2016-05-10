@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+<channel>
+<language>en-us</language>
+<title>Shep-A-Day</title>
+<image>
+     <url>http://tomwsmf.com/podcasts/shepadaylogo.jpg</url>
+     <title>Shep-A-Day</title>
+     <link>http://tomwsmf.com/blog</link>
+</image>
+<link>http://tomwsmf.com/blog</link>
+<description>What was Jean Shepherd yaking about on this day in history?</description>
+<itunes:summary>What was Jean Shepherd yaking about on this day in history?</itunes:summary>
+<itunes:owner>
+<itunes:name>WSMF</itunes:name>
+<itunes:author>ShepADay</itunes:author>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+</itunes:owner>
+<itunes:author>ShepADay</itunes:author>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+<itunes:image href='http://tomwsmf.com/podcasts/shepadaylogo.jpg' />
+<itunes:category text='Society &amp; Culture'>
+<itunes:category text='History' />
+</itunes:category>
+<copyright>Public Domain</copyright>
+<lastBuildDate>Tue, 03 May 2016 00:18:33 -0700</lastBuildDate>
+<item><title>Jean Shepherd 1972 05 03 Practical Jokes</title><guid>http://www.archive.org/download/JeanShepherd1972/1972_05_03_Practical_Jokes.mp3</guid><enclosure url='http://www.archive.org/download/JeanShepherd1972/1972_05_03_Practical_Jokes.mp3' length='23666323' type='audio/mpeg' /><pubDate>Tue, 03 May 2016 00:18:33 -0700</pubDate></item>
+<item><title>Jean Shepherd 1973 05 03 Model Airplanes restored</title><guid>http://www.archive.org/download/JeanShepherd1973/1973_05_03_Model_Airplanes_restored.mp3</guid><enclosure url='http://www.archive.org/download/JeanShepherd1973/1973_05_03_Model_Airplanes_restored.mp3' length='23666323' type='audio/mpeg' /><pubDate>Tue, 03 May 2016 00:18:33 -0700</pubDate></item>
+<item><title>Jean Shepherd 1976 05 03 Literary Influences edit</title><guid>http://www.archive.org/download/JeanShepherd1976/1976_05_03_Literary_Influences_edit.mp3</guid><enclosure url='http://www.archive.org/download/JeanShepherd1976/1976_05_03_Literary_Influences_edit.mp3' length='23666323' type='audio/mpeg' /><pubDate>Tue, 03 May 2016 00:18:33 -0700</pubDate></item>
+</channel>
+</rss>

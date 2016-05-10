@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+<channel>
+<language>en-us</language>
+<title>Serialized Tales From The Radio Planet</title>
+<image>
+     <url>http://tomwsmf.com/podcasts/serialized.jpg</url>
+     <title>Serialized Tales From The Radio Planet</title>
+     <link>http://tomwsmf.com/blog</link>
+</image>
+<link>http://tomwsmf.com/blog</link>
+<description>Kids, looking for adventure? Listen daily to these Serialized Tales From The Radio Planet. </description>
+<itunes:summary>Kids, looking for adventure? Listen daily to these Serialized Tales From The Radio Planet.</itunes:summary>
+<itunes:owner>
+<itunes:name>WSMF</itunes:name>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+<itunes:author>Tomwsmf</itunes:author>
+<itunes:image href='http://tomwsmf.com/podcasts/serialized.jpg' />
+<itunes:category text='Science Fiction' />
+<itunes:category text='Society &amp; Culture'>
+<itunes:category text='History' />
+</itunes:category>
+<copyright>Public Domain</copyright>
+<lastBuildDate>Tue, 03 May 2016 00:18:33 -0700</lastBuildDate>
+<item><title>The Adventures Of Superman 40 05 03 Episode 36 Airplane Disaster</title><guid>http://archive.org/download/superman_otr/Superman_400503_36_Airplane_Disaster.mp3</guid><enclosure url='http://archive.org/download/superman_otr/Superman_400503_36_Airplane_Disaster.mp3' length='23666323' type='audio/mpeg' /><pubDate>Tue, 03 May 2016 00:18:33 -0700</pubDate></item>
+<item><title>MagicIsland Episode 038 CommanderTalksToJohnson 05 03 </title><guid>http://archive.org/download/OTRR_Magic_Island_Singles/MagicIsland_36xxxx__038_CommanderTalksToJohnson.mp3</guid><enclosure url='http://archive.org/download/OTRR_Magic_Island_Singles/MagicIsland_36xxxx__038_CommanderTalksToJohnson.mp3' length='23666323' type='audio/mpeg' /><pubDate>Tue, 03 May 2016 00:18:33 -0700</pubDate></item>
+</channel>
+</rss>
