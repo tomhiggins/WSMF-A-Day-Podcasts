@@ -1,7 +1,10 @@
 #!/bin/bash
 
-# Podcast generator
+# Daily podcast and m3u generator
 # CC 2011 by tomwsmf
+
+today=$(date  +""%m""%d)
+
 
 # Generate the single podcasts rss feeds for today
 /home/tomwsmf/shepaday/shepaday.sh >/home/tomwsmf/tomwsmf.com/podcasts/shepaday.rss
@@ -24,3 +27,9 @@ cp /home/tomwsmf/tomwsmf.com/podcasts/shepaday.rss /home/tomwsmf/tomwsmf.com/otr
 
 # Tell the log  this script ran today
 date >/home/tomwsmf/tomwsmf.com/podcasts/podcastlastrun.log
+
+# Generate the  M3U 
+/home/tomwsmf/m3uaday.sh >/home/tomwsmf/tomwsmf.com/podcasts/wsmfaday.m3u
+
+# Copy it to a dated archive M3U file
+cp /home/tomwsmf/tomwsmf.com/podcasts/wsmfaday.m3u /home/tomwsmf/tomwsmf.com/podcasts/wsmfaday$today.m3u

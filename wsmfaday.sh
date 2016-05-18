@@ -6,6 +6,7 @@
 todaydash=$(date +%m"-"%d)
 todayspace=$(date +%m" "%d)
 todaynospace=$(date  +%m%d_)
+todayinitspace=$(date +" "%m" "%d)
 pubdate=$(date -R)
 echo "<?xml version='1.0' encoding='UTF-8'?>"
 echo "<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>"
@@ -44,7 +45,8 @@ grep  "$todaydash\|$todayspace" /home/tomwsmf/serialized/serializedlist.txt|sed 
 grep  "$todaydash\|$todayspace" /home/tomwsmf/movies/hbplist.txt|sed "s/insertdate/$pubdate/g"
 grep  "$todaydash\|$todayspace" /home/tomwsmf/orson/orsonlist.txt|sed "s/insertdate/$pubdate/g"
 grep  "$todaydash\|$todayspace" /home/tomwsmf/badge/badgelist.txt|sed "s/insertdate/$pubdate/g"
-grep  "$todaydash\|$todayspace" /home/tomwsmf/bbc/britcastlist.txt|sed "s/insertdate/$pubdate/g"
+grep  "$todayinitspace" /home/tomwsmf/bbc/britcastlist.txt|sed "s/insertdate/$pubdate/g"
+grep  "$todaydash\|$todayspace" /home/tomwsmf/west/westlist.txt|sed "s/insertdate/$pubdate/g"
 
 grep  "$todaynospace" /home/tomwsmf/ote/oteadaylist.txt|sed "s/insertdate/$pubdate/g"
 echo "</channel>"
