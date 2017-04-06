@@ -1,6 +1,6 @@
 # WSMF-A-Day-Podcasts
 
-**Data and scripts to run the auto generating daily podcast feeds (RSS and M3U)**
+**Data and scripts to run auto generating daily podcast feeds (RSS and M3U)**
 
 # The Pitch
 The impetus behind all this was to have podcasts of historic radio broadcasts auto generated  for myself and a few  comrades.The shows offered would be ones that were broadcast on that day in history.  In the years since it has been running the podcasts  have gotten a few more listeners than I thought. Shows have been added as have genre and theme based podcasts. 
