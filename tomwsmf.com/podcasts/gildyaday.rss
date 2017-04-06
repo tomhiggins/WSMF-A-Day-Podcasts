@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+<channel>
+<language>en-us</language>
+<title>Gildy-A-Day Podcast</title>
+<image>
+<url>http://tomwsmf.com/podcasts/gildy.jpg</url>
+<title>Gildy-A-Day Podcast</title>
+<link>http://tomwsmf.com/blog</link>
+</image>
+<link>http://tomwsmf.com/blog</link>
+<description>Broadcasts on this day in history from the life of the Great Gildersleeve.</description>
+<itunes:summary>Broadcasts on this day in history from the life of the Great Gildersleeve.</itunes:summary>
+<itunes:owner>
+<itunes:name>WSMF</itunes:name>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+</itunes:owner>
+<itunes:author>Tomwsmf</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+<itunes:image href='http://tomwsmf.com/podcasts/gildy.jpg' />
+<itunes:category text='Comedy' />
+<itunes:category text='Society &amp; Culture'>
+<itunes:category text='History' />
+</itunes:category>
+<copyright>Public Domain</copyright>
+<lastBuildDate>Thu, 06 Apr 2017 00:00:02 -0700</lastBuildDate>
+<item><title>1949 04 06_322_The_Babys_Birthday_Party_Conflicts</title><guid>http://archive.org/download/Otrr_The_Great_Gildersleeve_Singles/The_Great_Gildersleeve_49-04-06_322_The_Babys_Birthday_Party_Conflicts.mp3</guid><enclosure url='http://archive.org/download/Otrr_The_Great_Gildersleeve_Singles/The_Great_Gildersleeve_49-04-06_322_The_Babys_Birthday_Party_Conflicts.mp3' length='23666323' type='audio/mpeg' /><pubdate>Thu, 06 Apr 2017 00:00:02 -0700</pubdate></item>
+</channel>
+</rss>

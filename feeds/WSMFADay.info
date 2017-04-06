@@ -1,0 +1,14 @@
+<title>WSMF Broadcast Day Podcast</title>
+<imgurl>http://tomwsmf.com/podcasts/wsmfbroadcastdaylogo.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>Radio broadcasts from this day in history presented as a daily podcast.</podcastdesc>
+<owner>WSMF</owner>
+<author>Tomwsmf</author>
+<email>shepaday@tomwsmf.com</email>
+<category>History</category>
+<copyright>Public Domain</copyright>
+<podcastfilename>wsmfaday.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>wsmfaday.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/wsmfadaylist.txt</enclosurelist>

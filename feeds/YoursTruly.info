@@ -1,0 +1,16 @@
+# Information on a Podcast
+
+<title>Yours Truly Johnny Dollar Podcast</title>
+<imgurl>http://tomwsmf.com/podcasts/yourstruly.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>Join us each night for the podcasted adventures of the man with the action-packed expense account Yours Truly Johnny Dollar Podcast</podcastdesc>
+<owner>WSMF</owner>
+<author>Tomwsmf</author>
+<email>shepaday@tomwsmf.com</email>
+<category>Mystery</category>
+<copyright>Public Domain</copyright>
+<podcastfilename>yourstruly.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>yourstruly.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/yourstrulylist.txt</enclosurelist>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+<channel>
+<language>en-us</language>
+<title>Western-A-Day Podcast</title>
+<image>
+<url>http://tomwsmf.com/podcasts/western.jpg</url>
+<title>Western-A-Day Podcast</title>
+<link>http://tomwsmf.com/blog</link>
+</image>
+<link>http://tomwsmf.com/blog</link>
+<description>Broadcasts on this day in history from the life in the wild west.</description>
+<itunes:summary>Broadcasts on this day in history from the life in the wild west.</itunes:summary>
+<itunes:owner>
+<itunes:name>WSMF</itunes:name>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+</itunes:owner>
+<itunes:author>Tomwsmf</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+<itunes:image href='http://tomwsmf.com/podcasts/western.jpg' />
+<itunes:category text='Western' />
+<itunes:category text='Society &amp; Culture'>
+<itunes:category text='History' />
+</itunes:category>
+<copyright>Public Domain</copyright>
+<lastBuildDate>Thu, 06 Apr 2017 00:00:04 -0700</lastBuildDate>
+<item><title>Gunsmoke_58 04 06_313_Yorky_reused_script</title><guid>http://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke_58-04-06_313_Yorky_reused_script.mp3</guid><enclosure url='http://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke_58-04-06_313_Yorky_reused_script.mp3' length='23666323' type='audio/mpeg' /><pubdate>Thu, 06 Apr 2017 00:00:04 -0700</pubdate></item>
+<item><title>Challenge Of The Yukon 1944 04 06_ep0323_Edward_Carson</title><guid>http://archive.org/download/OTRR_Challenge_of_the_Yukon_Singles/COTY_44-04-06_ep0323_Edward_Carson.mp3</guid><enclosure url='http://archive.org/download/OTRR_Challenge_of_the_Yukon_Singles/COTY_44-04-06_ep0323_Edward_Carson.mp3' length='23666323' type='audio/mpeg' /><pubdate>Thu, 06 Apr 2017 00:00:04 -0700</pubdate></item>
+<item><title>Challenge Of The Yukon 1949 04 06_ep0635_Dead_Mans_Man</title><guid>http://archive.org/download/OTRR_Challenge_of_the_Yukon_Singles/COTY_49-04-06_ep0635_Dead_Mans_Man.mp3</guid><enclosure url='http://archive.org/download/OTRR_Challenge_of_the_Yukon_Singles/COTY_49-04-06_ep0635_Dead_Mans_Man.mp3' length='23666323' type='audio/mpeg' /><pubdate>Thu, 06 Apr 2017 00:00:04 -0700</pubdate></item>
+<item><title>Texas_Rangers_1952 04 06_72_Troop_Train.mp3</title><guid>http://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_04_06_72_Troop_Train.mp3</guid><enclosure url='http://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_04_06_72_Troop_Train.mp3' length='23666323' type='audio/mpeg' /><pubdate>Thu, 06 Apr 2017 00:00:04 -0700</pubdate></item>
+<item><title>Frontier_Town_49 04 06_ep36_Bullets_for_Boot_Hill.mp3</title><guid>http://archive.org/download/OTRR_Frontier_Town_Singles/Frontier_Town_49-xx-xx_ep36_Bullets_for_Boot_Hill.mp3</guid><enclosure url='http://archive.org/download/OTRR_Frontier_Town_Singles/Frontier_Town_49-xx-xx_ep36_Bullets_for_Boot_Hill.mp3' length='23666323' type='audio/mpeg' /><pubdate>Thu, 06 Apr 2017 00:00:04 -0700</pubdate></item>
+</channel>
+</rss>

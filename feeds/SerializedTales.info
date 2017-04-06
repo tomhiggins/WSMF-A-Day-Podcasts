@@ -1,0 +1,14 @@
+<title>Serialized Tales From The Radio Planet</title>
+<imgurl>http://tomwsmf.com/podcasts/serialized.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>Kids, looking for adventure? Listen daily to these Serialized Tales From The Radio Planet.</podcastdesc>
+<owner>WSMF</owner>
+<author>Tomwsmf</author>
+<email>shepaday@tomwsmf.com</email>
+<category>Children</category>
+<copyright>Public Domain</copyright>
+<podcastfilename>serialized.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>serialized.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/serializedlist.txt</enclosurelist>

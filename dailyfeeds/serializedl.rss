@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+<channel>
+<language>en-us</language>
+<title>Serialized Tales From The Radio Planet</title>
+<image>
+<url>http://tomwsmf.com/podcasts/serialized.jpg</url>
+<title>Serialized Tales From The Radio Planet</title>
+<link>http://tomwsmf.com/blog</link>
+</image>
+<link>http://tomwsmf.com/blog</link>
+<description>Kids, looking for adventure? Listen daily to these Serialized Tales From The Radio Planet.</description>
+<itunes:summary>Kids, looking for adventure? Listen daily to these Serialized Tales From The Radio Planet.</itunes:summary>
+<itunes:owner>
+<itunes:name>WSMF</itunes:name>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+</itunes:owner>
+<itunes:author>Tomwsmf</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+<itunes:image href='http://tomwsmf.com/podcasts/serialized.jpg' />
+<itunes:category text='Children' />
+<itunes:category text='Society &amp; Culture'>
+<itunes:category text='History' />
+</itunes:category>
+<copyright>Public Domain</copyright>
+<lastBuildDate>Sun, 02 Apr 2017 00:00:04 -0700</lastBuildDate>
+<item><title>MagicIsland Episode 009 G-47 UsesHisRayGun 04 02 </title><guid>http://archive.org/download/OTRR_Magic_Island_Singles/MagicIsland_36xxxx__009_G-47_UsesHisRayGun.mp3</guid><enclosure url='http://archive.org/download/OTRR_Magic_Island_Singles/MagicIsland_36xxxx__009_G-47_UsesHisRayGun.mp3' length='23666323' type='audio/mpeg' /><pubDate>Sun, 02 Apr 2017 00:00:04 -0700</pubDate></item>
+<item><title>Speed Gibson 38-04-02 Episode 66 07 28 </title><guid>http://archive.org/download/Speed_Gibson_Of_The_International_Secret_Police/SGISP_1938-04-02.mp3</guid><enclosure url='http://archive.org/download/Speed_Gibson_Of_The_International_Secret_Police/SGISP_1938-04-02.mp3' length='23666323' type='audio/mpeg' /><pubDate>Sun, 02 Apr 2017 00:00:04 -0700</pubDate></item>
+</channel>
+</rss>

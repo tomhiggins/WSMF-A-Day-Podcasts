@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+<channel>
+<language>en-us</language>
+<title>This Day In Funny</title>
+<image>
+<url>http://tomwsmf.com/podcasts/thisdayinfunnylogo.jpg</url>
+<title>This Day In Funny</title>
+<link>http://tomwsmf.com/blog</link>
+</image>
+<link>http://tomwsmf.com/blog</link>
+<description>Broadcasts from this day in history that raised a laugh or three.</description>
+<itunes:summary>Broadcasts from this day in history that raised a laugh or three.</itunes:summary>
+<itunes:owner>
+<itunes:name>WSMF</itunes:name>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+</itunes:owner>
+<itunes:author>Tomwsmf</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+<itunes:image href='http://tomwsmf.com/podcasts/thisdayinfunnylogo.jpg' />
+<itunes:category text='Comedy ' />
+<itunes:category text='Society &amp; Culture'>
+<itunes:category text='History' />
+</itunes:category>
+<copyright>Public Domain</copyright>
+<lastBuildDate>Thu, 06 Apr 2017 00:00:04 -0700</lastBuildDate>
+<item><title>BeliveitOrKillMe04 06</title><guid>http://www.archive.org/download/Believe_It_Or_Kill_Me/bd_Believe_It_or_Kill_Me0108.mp3</guid><enclosure url='http://www.archive.org/download/Believe_It_Or_Kill_Me/bd_Believe_It_or_Kill_Me0108.mp3' length='23666323' type='audio/mpeg' /><pubDate>Thu, 06 Apr 2017 00:00:04 -0700</pubDate></item>
+<item><title>YouBetYourLife1949 04 06 Wall</title><guid>http://www.archive.org/download/YouBetYourLifeunedited/YbylUnedited-Rec1949.03.24ForBroadcast1949.04.06Wall.mp3</guid><enclosure url='http://www.archive.org/download/YouBetYourLifeunedited/YbylUnedited-Rec1949.03.24ForBroadcast1949.04.06Wall.mp3' length='23666323' type='audio/mpeg' /><pubDate>Thu, 06 Apr 2017 00:00:04 -0700</pubDate></item>
+<item><title>Just A Minute - 1977 04 06 - The Broads</title><guid>http://archive.org/download/JAM1970s/JAM%20-%201977.04.06%20-%20The%20Broads.mp3</guid><enclosure url='http://archive.org/download/JAM1970s/JAM%20-%201977.04.06%20-%20The%20Broads.mp3' length='23666323' type='audio/mpeg' /><pubDate>Thu, 06 Apr 2017 00:00:04 -0700</pubDate></item>
+</channel>
+</rss>

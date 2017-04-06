@@ -1,0 +1,14 @@
+<title>OverTheEdge-A-Day</title>
+<imgurl>http://tomwsmf.com/podcasts/otelogo.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>The sounds of Over The Edge broadcasts on this day in history.</podcastdesc>
+<owner>WSMF</owner>
+<author>Tomwsmf</author>
+<email>shepaday@tomwsmf.com</email>
+<category> </category>
+<copyright>Public Domain</copyright>
+<podcastfilename>oteaday.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>oteaday.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/oteadaylist.txt</enclosurelist>

@@ -1,0 +1,14 @@
+<title>The Biggest Cult Podcast<</title>
+<imgurl>http://tomwsmf.com/podcasts/biggestcultlogo.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>Broadcasts on this day in history with Kenneth Williams, The Goons, Kenneth Williams, Nicholas Parsons, Kenneth Williams, other people from Britan, Kenneth Williams and of course Kenneth Williams</podcastdesc>
+<owner>WSMF</owner>
+<author>Tomwsmf</author>
+<email>shepaday@tomwsmf.com</email>
+<category>Comedy</category>
+<copyright>Public Domain</copyright>
+<podcastfilename>biggestcult.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>biggestcult.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/britcastlist.txt</enclosurelist>

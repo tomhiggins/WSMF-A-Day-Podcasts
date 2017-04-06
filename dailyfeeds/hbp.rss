@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+<channel>
+<language>en-us</language>
+<title>The Hot-Buttered Podcast
+The Hot-Buttered Podcast</title>
+<image>
+<url>http://tomwsmf.com/podcasts/hbp.jpg</url>
+<title>The Hot-Buttered Podcast
+The Hot-Buttered Podcast</title>
+<link>http://tomwsmf.com/blog</link>
+</image>
+<link>http://tomwsmf.com/blog</link>
+<description>The Hot-Buttered Podcast. A movie related old time radio show a day podcast.</description>
+<itunes:summary>The Hot-Buttered Podcast. A movie related old time radio show a day podcast.</itunes:summary>
+<itunes:owner>
+<itunes:name>WSMF</itunes:name>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+</itunes:owner>
+<itunes:author>Tomwsmf</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+<itunes:image href='http://tomwsmf.com/podcasts/hbp.jpg' />
+<itunes:category text='Movies' />
+<itunes:category text='Society &amp; Culture'>
+<itunes:category text='History' />
+</itunes:category>
+<copyright>Public Domain</copyright>
+<lastBuildDate>Thu, 06 Apr 2017 00:00:02 -0700</lastBuildDate>
+<item><title>Screen Guild Theater 41-04-06 ep081 Lucky Partners</title><guid>https://archive.org/download/ScreenGuildTheater/Sgt_41-04-06_ep081_Lucky_Partners.mp3</guid><enclosure url='https://archive.org/download/ScreenGuildTheater/Sgt_41-04-06_ep081_Lucky_Partners.mp3' length='23666323' type='audio/mpeg' /><pubDate>Thu, 06 Apr 2017 00:00:02 -0700</pubDate></item>
+<item><title>MGM Theater Of The Air 51-04-06 ep74-Love Is a Headache</title><guid>https://archive.org/download/MGMTheateroftheAir/MGMTA_51-04-06_ep74-Love_Is_a_Headache.mp3</guid><enclosure url='https://archive.org/download/MGMTheateroftheAir/MGMTA_51-04-06_ep74-Love_Is_a_Headache.mp3' length='23666323' type='audio/mpeg' /><pubDate>Thu, 06 Apr 2017 00:00:02 -0700</pubDate></item>
+<item><title>Academy Award 46-04-06 ep02 Kitty Foyle</title><guid>https://archive.org/download/OTRR_Academy_Award_Theater_Singles/Academy_Award_46-04-06_ep02_Kitty_Foyle.mp3</guid><enclosure url='https://archive.org/download/OTRR_Academy_Award_Theater_Singles/Academy_Award_46-04-06_ep02_Kitty_Foyle.mp3' length='23666323' type='audio/mpeg' /><pubDate>Thu, 06 Apr 2017 00:00:02 -0700</pubDate></item>
+<item><title>Lux Radio Theatre 42-04-06 346 The Fighting 69th</title><guid>https://archive.org/download/OTRR_Lux_Radio_Theater_Singles/Lux_Radio_Theatre_42-04-06_346_The_Fighting_69th.mp3</guid><enclosure url='https://archive.org/download/OTRR_Lux_Radio_Theater_Singles/Lux_Radio_Theatre_42-04-06_346_The_Fighting_69th.mp3' length='23666323' type='audio/mpeg' /><pubDate>Thu, 06 Apr 2017 00:00:02 -0700</pubDate></item>
+<item><title>Lux Radio Theatre 53-04-06 823 Angels in the Outfield</title><guid>https://archive.org/download/OTRR_Lux_Radio_Theater_Singles/Lux_Radio_Theatre_53-04-06_823_Angels_in_the_Outfield.mp3</guid><enclosure url='https://archive.org/download/OTRR_Lux_Radio_Theater_Singles/Lux_Radio_Theatre_53-04-06_823_Angels_in_the_Outfield.mp3' length='23666323' type='audio/mpeg' /><pubDate>Thu, 06 Apr 2017 00:00:02 -0700</pubDate></item>
+</channel>
+</rss>

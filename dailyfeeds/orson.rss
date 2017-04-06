@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+<channel>
+<language>en-us</language>
+<title>O For Orson Podcast</title>
+<image>
+<url>http://tomwsmf.com/podcasts/orson.jpg</url>
+<title>O For Orson Podcast</title>
+<link>http://tomwsmf.com/blog</link>
+</image>
+<link>http://tomwsmf.com/blog</link>
+<description>We know of a little podcast where Orson Welles picks shows every day. Broadcasts Orson crafted on this day in history.</description>
+<itunes:summary>We know of a little podcast where Orson Welles picks shows every day. Broadcasts Orson crafted on this day in history.</itunes:summary>
+<itunes:owner>
+<itunes:name>WSMF</itunes:name>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+</itunes:owner>
+<itunes:author>Tomwsmf</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+<itunes:image href='http://tomwsmf.com/podcasts/orson.jpg' />
+<itunes:category text='Drama' />
+<itunes:category text='Society &amp; Culture'>
+<itunes:category text='History' />
+</itunes:category>
+<copyright>Public Domain</copyright>
+<lastBuildDate>Thu, 06 Apr 2017 00:00:03 -0700</lastBuildDate>
+
+</channel>
+</rss>

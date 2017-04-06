@@ -1,0 +1,14 @@
+<title>Storied Fiction A Day</title>
+<imgurl>http://tomwsmf.com/podcasts/sf.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>Stories of possible futures, pasts and todays. Radio shows broadcast on this day in history about their tomorrows.</podcastdesc>
+<owner>WSMF</owner>
+<author>Tomwsmf</author>
+<email>shepaday@tomwsmf.com</email>
+<category>Fiction</category>
+<copyright>Public Domain</copyright>
+<podcastfilename>sfaday.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>sfaday.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/sfadaylist.txt</enclosurelist>

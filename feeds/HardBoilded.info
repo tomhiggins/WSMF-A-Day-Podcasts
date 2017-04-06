@@ -1,0 +1,16 @@
+# HardBoiled Info
+<title>Hard Boiled Adventure A Day Podcast</title>
+<imgurl>http://tomwsmf.com/podcasts/HB.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>Tired of the everyday grind? Ever dream of a life of adventure? Want to get away from it all? We offer you The Hard Boiled Podcast. </podcastdesc>
+<owner>WSMF</owner>
+<author>Tomwsmf </author>
+<email>shepaday@tomwsmf.com</email>
+<category>Detective</category>
+<copyright>Public Domain</copyright>
+<podcastfilename>hardboiled.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>hardboiled.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/HBList.txt</enclosurelist>
+

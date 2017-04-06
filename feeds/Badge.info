@@ -1,0 +1,14 @@
+<title>The Badge Podcast - Tales Of The Law</title>
+<imgurl>http://tomwsmf.com/podcasts/badge.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>Broadcasts on this day in history telling the tale of the law and its enforcers. </podcastdesc>
+<owner>WSMF</owner>
+<author>Tomwsmf</author>
+<email>shepaday@tomwsmf.com</email>
+<category>Crime</category>
+<copyright>Public Domain</copyright>
+<podcastfilename>badge.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>badge.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/badgelist.txt</enclosurelist>

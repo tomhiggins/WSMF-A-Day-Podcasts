@@ -1,0 +1,14 @@
+<title>Mystery-A-Day Podcast</title>
+<imgurl>http://tomwsmf.com/podcasts/mystery.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>Broadcasts of Mystery  on this day in history.</podcastdesc>
+<owner>WSMF</owner>
+<author> Tomwsmf</author>
+<email>shepaday@tomwsmf.com</email>
+<category>Mystery</category>
+<copyright>Public Domain</copyright>
+<podcastfilename>mysteryaday.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>mysteryaday.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/mysteryadaylist.txt</enclosurelist>

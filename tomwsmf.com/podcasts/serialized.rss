@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+<channel>
+<language>en-us</language>
+<title>Serialized Tales From The Radio Planet</title>
+<image>
+<url>http://tomwsmf.com/podcasts/serialized.jpg</url>
+<title>Serialized Tales From The Radio Planet</title>
+<link>http://tomwsmf.com/blog</link>
+</image>
+<link>http://tomwsmf.com/blog</link>
+<description>Kids, looking for adventure? Listen daily to these Serialized Tales From The Radio Planet.</description>
+<itunes:summary>Kids, looking for adventure? Listen daily to these Serialized Tales From The Radio Planet.</itunes:summary>
+<itunes:owner>
+<itunes:name>WSMF</itunes:name>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+</itunes:owner>
+<itunes:author>Tomwsmf</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+<itunes:image href='http://tomwsmf.com/podcasts/serialized.jpg' />
+<itunes:category text='Children' />
+<itunes:category text='Society &amp; Culture'>
+<itunes:category text='History' />
+</itunes:category>
+<copyright>Public Domain</copyright>
+<lastBuildDate>Thu, 06 Apr 2017 00:00:03 -0700</lastBuildDate>
+<item><title>Comic Weekly Man 52 04 06  Mr Bigger Riddle First Comic - Hopalong Cassidy</title><guid>http://archive.org/download/OTRR_Comic_Weekly_Man_Singles/CWM_52-04-06_ep259_Mr_Bigger_Riddle_First_Comic_-_Hopalong_Cassidy.mp3</guid><enclosure url='http://archive.org/download/OTRR_Comic_Weekly_Man_Singles/CWM_52-04-06_ep259_Mr_Bigger_Riddle_First_Comic_-_Hopalong_Cassidy.mp3' length='23666323' type='audio/mpeg' /><pubDate>Thu, 06 Apr 2017 00:00:03 -0700</pubDate></item>
+<item><title>MagicIsland Episode 013 JoanStaysOnTheYacht 04 06 </title><guid>http://archive.org/download/OTRR_Magic_Island_Singles/MagicIsland_36xxxx__013_JoanStaysOnTheYacht.mp3</guid><enclosure url='http://archive.org/download/OTRR_Magic_Island_Singles/MagicIsland_36xxxx__013_JoanStaysOnTheYacht.mp3' length='23666323' type='audio/mpeg' /><pubDate>Thu, 06 Apr 2017 00:00:03 -0700</pubDate></item>
+<item><title>Speed Gibson 40-04-06 Episode 171 11 21 </title><guid>http://archive.org/download/Speed_Gibson_Of_The_International_Secret_Police/SGISP_1940-04-06.mp3</guid><enclosure url='http://archive.org/download/Speed_Gibson_Of_The_International_Secret_Police/SGISP_1940-04-06.mp3' length='23666323' type='audio/mpeg' /><pubDate>Thu, 06 Apr 2017 00:00:03 -0700</pubDate></item>
+</channel>
+</rss>

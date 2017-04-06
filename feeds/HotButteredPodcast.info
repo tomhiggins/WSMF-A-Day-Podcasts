@@ -1,0 +1,19 @@
+echo "<title>The Hot-Buttered Podcast</title>"
+echo "     <url>http://tomwsmf.com/podcasts/hbp.jpg</url>"
+echo "<description>The Hot-Buttered Podcast. A movie related old time radio show a day podcast.</description>"
+grep  "$today" /home/tomwsmf/movies/hbplist.txt|sed "s/insertdate/$pubdate/g"
+
+<title>The Hot-Buttered Podcast</title>
+<imgurl>http://tomwsmf.com/podcasts/hbp.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>The Hot-Buttered Podcast. A movie related old time radio show a day podcast.</podcastdesc>
+<owner>WSMF</owner>
+<author>Tomwsmf</author>
+<email>shepaday@tomwsmf.com</email>
+<category>Movies</category>
+<copyright>Public Domain</copyright>
+<podcastfilename>hbp.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>hbp.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/hbplist.txt</enclosurelist>

@@ -1,0 +1,14 @@
+<title>Quiz-A-Day Podcast</title>
+<imgurl>http://tomwsmf.com/podcasts/quiz.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>Quiz shows broadcast on this day in history.</podcastdesc>
+<owner>WSMF</owner>
+<author>Tomwsmf</author>
+<email>shepaday@tomwsmf.com</email>
+<category>Quiz</category>
+<copyright>Public Domain</copyright>
+<podcastfilename>quizaday.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>quizaday.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/quizadaylist.txt</enclosurelist>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+<channel>
+<language>en-us</language>
+<title>Shep-A-Day</title>
+<image>
+     <url>https://tomwsmf.com/podcasts/shepadaylogo.jpg</url>
+     <title>Shep-A-Day</title>
+     <link>http://tomwsmf.com/blog</link>
+</image>
+<link>http://tomwsmf.com/blog</link>
+<description>What was Jean Shepherd yaking about on this day in history?</description>
+<itunes:summary>What was Jean Shepherd yaking about on this day in history?</itunes:summary>
+<itunes:owner>
+<itunes:name>WSMF</itunes:name>
+<itunes:author>ShepADay</itunes:author>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+</itunes:owner>
+<itunes:author>ShepADay</itunes:author>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+<itunes:image href='https://tomwsmf.com/podcasts/shepadaylogo.jpg' />
+<itunes:category text='Society &amp; Culture'>
+<itunes:category text='History' />
+</itunes:category>
+<copyright>Public Domain</copyright>
+<lastBuildDate>Sun, 04 Dec 2016 00:00:02 -0800</lastBuildDate>
+<introduction url="http://traffic.libsyn.com/bespoken/Introduction.mp3" />
+<about url="http://traffic.libsyn.com/bespoken/About.mp3" />
+<item><title>Jean Shepherd 1965 12 04</title><guid>https://www.archive.org/download/JeanShepherd1965Pt1/1965_12_04.mp3</guid><enclosure url='https://www.archive.org/download/JeanShepherd1965Pt1/1965_12_04.mp3' length='23666323' type='audio/mpeg' /><pubDate>Sun, 04 Dec 2016 00:00:02 -0800</pubDate><summary url="https://traffic.libsyn.com/bespoken/TIP103-Summary.mp3" /></item>
+<item><title>Jean Shepherd 1972 12 04 Marching As Art</title><guid>https://www.archive.org/download/JeanShepherd1972/1972_12_04_Marching_As_Art.mp3</guid><enclosure url='https://www.archive.org/download/JeanShepherd1972/1972_12_04_Marching_As_Art.mp3' length='23666323' type='audio/mpeg' /><pubDate>Sun, 04 Dec 2016 00:00:02 -0800</pubDate><summary url="https://traffic.libsyn.com/bespoken/TIP103-Summary.mp3" /></item>
+<item><title>Jean Shepherd 1973 12 04 Symbolic Gifts</title><guid>https://www.archive.org/download/JeanShepherd1973/1973_12_04_Symbolic_Gifts.mp3</guid><enclosure url='https://www.archive.org/download/JeanShepherd1973/1973_12_04_Symbolic_Gifts.mp3' length='23666323' type='audio/mpeg' /><pubDate>Sun, 04 Dec 2016 00:00:02 -0800</pubDate><summary url="https://traffic.libsyn.com/bespoken/TIP103-Summary.mp3" /></item>
+</channel>
+</rss>

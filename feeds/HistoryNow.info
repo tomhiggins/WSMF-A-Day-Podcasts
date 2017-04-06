@@ -1,0 +1,14 @@
+<title>History Now Podcast<</title>
+<imgurl>http://tomwsmf.com/podcasts/mrpeabodylogo.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>News, reports, and sounds from the history of today.</podcastdesc>
+<owner>WSMF</owner>
+<author>Tomwsmf</author>
+<email>shepaday@tomwsmf.com</email>
+<category>History</category>
+<copyright>Public Domain</copyright>
+<podcastfilename>historynow.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>historynow.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/mrpeabodylist.txt</enclosurelist>

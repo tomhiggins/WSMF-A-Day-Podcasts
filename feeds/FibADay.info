@@ -1,0 +1,14 @@
+<title>Fib-A-Day Podcast<</title>
+<imgurl>http://tomwsmf.com/podcasts/fib.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>Broadcasts on this day in history from the life of Fibber McGee and Molly.</podcastdesc>
+<owner>WSMF</owner>
+<author>Tomwsmf</author>
+<email>shepaday@tomwsmf.com</email>
+<category>Comedy</category>
+<copyright>Public Domain</copyright>
+<podcastfilename>fibaday.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>fibaday.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/fibadaylist.txt</enclosurelist>

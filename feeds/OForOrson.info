@@ -1,0 +1,14 @@
+<title>O For Orson Podcast</title>
+<imgurl>http://tomwsmf.com/podcasts/orson.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>We know of a little podcast where Orson Welles picks shows every day. Broadcasts Orson crafted on this day in history.</podcastdesc>
+<owner>WSMF</owner>
+<author>Tomwsmf</author>
+<email>shepaday@tomwsmf.com</email>
+<category>Drama</category>
+<copyright>Public Domain</copyright>
+<podcastfilename>orson.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>orson.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/orsonlist.txt</enclosurelist>

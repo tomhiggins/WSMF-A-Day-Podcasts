@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+<channel>
+<language>en-us</language>
+<title>Yours Truly Johnny Dollar Podcast</title>
+<image>
+<url>http://tomwsmf.com/podcasts/yourstruly.jpg</url>
+<title>Yours Truly Johnny Dollar Podcast</title>
+<link>http://tomwsmf.com/blog</link>
+</image>
+<link>http://tomwsmf.com/blog</link>
+<description>Join us each night for the podcasted adventures of the man with the action-packed expense account Yours Truly Johnny Dollar Podcast</description>
+<itunes:summary>Join us each night for the podcasted adventures of the man with the action-packed expense account Yours Truly Johnny Dollar Podcast</itunes:summary>
+<itunes:owner>
+<itunes:name>WSMF</itunes:name>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+</itunes:owner>
+<itunes:author>Tomwsmf</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+<itunes:image href='http://tomwsmf.com/podcasts/yourstruly.jpg' />
+<itunes:category text='Mystery' />
+<itunes:category text='Society &amp; Culture'>
+<itunes:category text='History' />
+</itunes:category>
+<copyright>Public Domain</copyright>
+<lastBuildDate>Thu, 06 Apr 2017 00:00:05 -0700</lastBuildDate>
+<item><title>54 04 06 z211 The Sulphur and Brimstone Matter</title><guid>https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/540406_211_The_Sulphur_and_Brimstone_Matter.mp3</guid><enclosure url='https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/540406_211_The_Sulphur_and_Brimstone_Matter.mp3' length='23666323' type='audio/mpeg' /><pubdate>Thu, 06 Apr 2017 00:00:05 -0700</pubdate></item>
+<item><title>56 04 06 z367 The Salt City Matter Episode 5</title><guid>https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/560406_367_The_Salt_City_Matter_Episode_5.mp3</guid><enclosure url='https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/560406_367_The_Salt_City_Matter_Episode_5.mp3' length='23666323' type='audio/mpeg' /><pubdate>Thu, 06 Apr 2017 00:00:05 -0700</pubdate></item>
+<item><title>58 04 06 z583 The Eastern Western Matter AFRTS</title><guid>https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/580406_583_The_Eastern_Western_Matter_AFRTS.mp3</guid><enclosure url='https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/580406_583_The_Eastern_Western_Matter_AFRTS.mp3' length='23666323' type='audio/mpeg' /><pubdate>Thu, 06 Apr 2017 00:00:05 -0700</pubdate></item>
+</channel>
+</rss>

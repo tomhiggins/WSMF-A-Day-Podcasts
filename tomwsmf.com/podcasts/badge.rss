@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+<channel>
+<language>en-us</language>
+<title>The Badge Podcast - Tales Of The Law</title>
+<image>
+<url>http://tomwsmf.com/podcasts/badge.jpg</url>
+<title>The Badge Podcast - Tales Of The Law</title>
+<link>http://tomwsmf.com/blog</link>
+</image>
+<link>http://tomwsmf.com/blog</link>
+<description>Broadcasts on this day in history telling the tale of the law and its enforcers. </description>
+<itunes:summary>Broadcasts on this day in history telling the tale of the law and its enforcers. </itunes:summary>
+<itunes:owner>
+<itunes:name>WSMF</itunes:name>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+</itunes:owner>
+<itunes:author>Tomwsmf</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+<itunes:image href='http://tomwsmf.com/podcasts/badge.jpg' />
+<itunes:category text='Crime' />
+<itunes:category text='Society &amp; Culture'>
+<itunes:category text='History' />
+</itunes:category>
+<copyright>Public Domain</copyright>
+<lastBuildDate>Thu, 06 Apr 2017 00:00:01 -0700</lastBuildDate>
+<item><title>Dragnet 1950 04 06_043_The_Big_Book</title><guid>http://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-04-06_043_The_Big_Book.mp3</guid><enclosure url='http://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-04-06_043_The_Big_Book.mp3' length='23666323' type='audio/mpeg' /><pubdate>Thu, 06 Apr 2017 00:00:01 -0700</pubdate></item>
+<item><title>Dragnet 1954 04 06_242_The_Big_Saw</title><guid>http://archive.org/download/OTRR_Dragnet_Singles/Dragnet_54-04-06_242_The_Big_Saw.mp3</guid><enclosure url='http://archive.org/download/OTRR_Dragnet_Singles/Dragnet_54-04-06_242_The_Big_Saw.mp3' length='23666323' type='audio/mpeg' /><pubdate>Thu, 06 Apr 2017 00:00:01 -0700</pubdate></item>
+<item><title>Dragnet 1954 04 06_242_The_Big_Saw_AFRS</title><guid>http://archive.org/download/OTRR_Dragnet_Singles/Dragnet_54-04-06_242_The_Big_Saw_AFRS.mp3</guid><enclosure url='http://archive.org/download/OTRR_Dragnet_Singles/Dragnet_54-04-06_242_The_Big_Saw_AFRS.mp3' length='23666323' type='audio/mpeg' /><pubdate>Thu, 06 Apr 2017 00:00:01 -0700</pubdate></item>
+</channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+<channel>
+<language>en-us</language>
+<title>Mystery-A-Day Podcast</title>
+<image>
+<url>http://tomwsmf.com/podcasts/mystery.jpg</url>
+<title>Mystery-A-Day Podcast</title>
+<link>http://tomwsmf.com/blog</link>
+</image>
+<link>http://tomwsmf.com/blog</link>
+<description>Broadcasts of Mystery  on this day in history.</description>
+<itunes:summary>Broadcasts of Mystery  on this day in history.</itunes:summary>
+<itunes:owner>
+<itunes:name>WSMF</itunes:name>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+</itunes:owner>
+<itunes:author> Tomwsmf</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+<itunes:image href='http://tomwsmf.com/podcasts/mystery.jpg' />
+<itunes:category text='Mystery' />
+<itunes:category text='Society &amp; Culture'>
+<itunes:category text='History' />
+</itunes:category>
+<copyright>Public Domain</copyright>
+<lastBuildDate>Thu, 06 Apr 2017 00:00:03 -0700</lastBuildDate>
+<item><title>MrKeen 50 04 06 TheCaseOfTheMurderedDetective</title><guid>http://archive.org/download/OTRR_Mr_Keen_Tracer_Of_Lost_Persons_Singles/MrKeen50-04-06TheCaseOfTheMurderedDetective.mp3</guid><enclosure url='http://archive.org/download/OTRR_Mr_Keen_Tracer_Of_Lost_Persons_Singles/MrKeen50-04-06TheCaseOfTheMurderedDetective.mp3' length='23666323' type='audio/mpeg' /><pubdate>Thu, 06 Apr 2017 00:00:03 -0700</pubdate></item>
+<item><title>Whistler 52 04 06 ep514_Element_X</title><guid>http://archive.org/download/OTRR_Whistler_Singles/Whistler_52-04-06_ep514_Element_X.mp3</guid><enclosure url='http://archive.org/download/OTRR_Whistler_Singles/Whistler_52-04-06_ep514_Element_X.mp3' length='23666323' type='audio/mpeg' /><pubdate>Thu, 06 Apr 2017 00:00:03 -0700</pubdate></item>
+</channel>
+</rss>

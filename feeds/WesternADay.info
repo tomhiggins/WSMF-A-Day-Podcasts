@@ -1,0 +1,14 @@
+<title>Western-A-Day Podcast</title>
+<imgurl>http://tomwsmf.com/podcasts/western.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>Broadcasts on this day in history from the life in the wild west.</podcastdesc>
+<owner>WSMF</owner>
+<author>Tomwsmf</author>
+<email>shepaday@tomwsmf.com</email>
+<category>Western</category>
+<copyright>Public Domain</copyright>
+<podcastfilename>west.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>west.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/westlist.txt</enclosurelist>

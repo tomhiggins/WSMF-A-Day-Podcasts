@@ -1,0 +1,14 @@
+<title>Music-A-Day Podcast<</title>
+<imgurl>http://tomwsmf.com/podcasts/music.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>Musical broadcasts on this day in history.</podcastdesc>
+<owner>WSMF</owner>
+<author>Tomwsmf</author>
+<email>shepaday@tomwsmf.com</email>
+<category>Music</category>
+<copyright>Public Domain</copyright>
+<podcastfilename>musicaday.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>musicaday.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/musicadaylist.txt</enclosurelist>

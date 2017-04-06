@@ -1,0 +1,16 @@
+# Information on a Podcast
+
+<title> </title>
+<imgurl>http://tomwsmf.com/podcasts/.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc> </podcastdesc>
+<owner>WSMF</owner>
+<author> </author>
+<email>shepaday@tomwsmf.com</email>
+<category> </category>
+<copyright>Public Domain</copyright>
+<podcastfilename>.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/ list.txt</enclosurelist>

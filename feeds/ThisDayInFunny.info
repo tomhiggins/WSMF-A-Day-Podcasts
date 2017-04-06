@@ -1,0 +1,14 @@
+<title>This Day In Funny</title>
+<imgurl>http://tomwsmf.com/podcasts/thisdayinfunnylogo.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>Broadcasts from this day in history that raised a laugh or three.<</podcastdesc>
+<owner>WSMF</owner>
+<author>Tomwsmf</author>
+<email>shepaday@tomwsmf.com</email>
+<category>Comedy </category>
+<copyright>Public Domain</copyright>
+<podcastfilename>thisdayinfunny.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>thisdayinfunny.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/comedylist.txt</enclosurelist>

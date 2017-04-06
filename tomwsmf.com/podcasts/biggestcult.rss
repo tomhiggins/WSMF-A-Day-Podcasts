@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+<channel>
+<language>en-us</language>
+<title>The Biggest Cult Podcast</title>
+<image>
+<url>http://tomwsmf.com/podcasts/biggestcultlogo.jpg</url>
+<title>The Biggest Cult Podcast</title>
+<link>http://tomwsmf.com/blog</link>
+</image>
+<link>http://tomwsmf.com/blog</link>
+<description>Broadcasts on this day in history with Kenneth Williams, The Goons, Kenneth Williams, Nicholas Parsons, Kenneth Williams, other people from Britan, Kenneth Williams and of course Kenneth Williams</description>
+<itunes:summary>Broadcasts on this day in history with Kenneth Williams, The Goons, Kenneth Williams, Nicholas Parsons, Kenneth Williams, other people from Britan, Kenneth Williams and of course Kenneth Williams</itunes:summary>
+<itunes:owner>
+<itunes:name>WSMF</itunes:name>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+</itunes:owner>
+<itunes:author>Tomwsmf</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:email>shepaday@tomwsmf.com</itunes:email>
+<itunes:image href='http://tomwsmf.com/podcasts/biggestcultlogo.jpg' />
+<itunes:category text='Comedy' />
+<itunes:category text='Society &amp; Culture'>
+<itunes:category text='History' />
+</itunes:category>
+<copyright>Public Domain</copyright>
+<lastBuildDate>Thu, 06 Apr 2017 00:00:02 -0700</lastBuildDate>
+<item><title>Just A Minute 1977 04 06   The Broads</title><guid>http://archive.org/download/JAM1970s/JAM%20-%201977.04.06%20-%20The%20Broads.mp3</guid><enclosure url='http://archive.org/download/JAM1970s/JAM%20-%201977.04.06%20-%20The%20Broads.mp3' length='23666323' type='audio/mpeg' /><pubdate>Thu, 06 Apr 2017 00:00:02 -0700</pubdate></item>
+</channel>
+</rss>

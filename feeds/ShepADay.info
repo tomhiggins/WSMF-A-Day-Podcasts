@@ -1,0 +1,14 @@
+<title>Shep-A-Day Fatheads Podcast</title>
+<imgurl>http://tomwsmf.com/podcasts/shepadaylogo.jpg</imgurl>
+<podcastwebsite>http://tomwsmf.com/blog</podcastwebsite>
+<podcastdesc>What was Jean Shepherd yaking about on this day in history?</podcastdesc>
+<owner>WSMF</owner>
+<author>ShepADay</author>
+<email>shepaday@tomwsmf.com</email>
+<category>Comedy</category>
+<copyright>Public Domain</copyright>
+<podcastfilename>shepaday.rss</podcastfilename>
+<rssdir>/home/tomwsmf/podcasts/dailyfeeds/</rssdir>
+<m3udir>/home/tomwsmf/podcasts/dailyfeeds/</m3udir>
+<m3ufilename>shepaday.m3u</m3ufilename>
+<enclosurelist>/home/tomwsmf/podcasts/lists/shepadaylist.txt</enclosurelist>
